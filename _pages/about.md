@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. candidate in Mathematics at Michigan State University, advised by Prof. Ekaterina Rapinchuk and Prof. Guo-Wei Wei. I expect to graduate in May 2027.
+I am a Ph.D. candidate in Mathematics at Michigan State University, advised by [Prof. Ekaterina Rapinchuk](https://users.math.msu.edu/users/merkurje/) and [Prof. Guo-Wei Wei](https://users.math.msu.edu/users/weig/). I expect to graduate in May 2027.
 
 My work sits between applied algebraic topology and machine learning. I develop new homology theories for directed graphs and path complexes, most recently **Mayer path homology**, and turn them into topological features that graph neural networks can use on molecular, dynamical and engineering data. I also bring these tools to industry: at Intel I have built graph and GNN pipelines for chip-layout analysis and yield workflows.
 
