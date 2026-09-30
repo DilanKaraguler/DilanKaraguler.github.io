@@ -38,6 +38,11 @@ from this folder in (including hidden files: press Cmd+Shift+. in Finder to see 
 
 Every later push to `main` rebuilds the site automatically.
 
+**"The al_folio_core theme could not be found" (github-pages 232):** this comes from GitHub's built-in
+"pages build and deployment" job, which runs when Pages is set to build from `main`. That built-in builder
+can't use al-folio's theme gems. It's harmless once Pages serves the `gh-pages` branch (step 3); if `gh-pages`
+doesn't exist yet, do step 1 and re-run "Deploy site" first.
+
 ## 3. Make it findable
 
 1. **Google Search Console** (<https://search.google.com/search-console>): add a "URL prefix" property for
