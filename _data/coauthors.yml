@@ -1,5 +1,5 @@
 # Co-author links used on the Publications page (keys are lower-case last names).
 # Example:
-# "wei":
-#   - firstname: ["Guo-Wei", "G.-W."]
-#     url: https://example.edu/~wei
+"wei":
+  - firstname: ["Guo-Wei", "G.-W."]
+    url: https://users.math.msu.edu/users/weig/
