@@ -44,7 +44,6 @@ nav_order: 4
 
 - **Program Evaluator & Instructional Researcher**, AI for Advanced Semiconductor Manufacturing Workshop, Michigan State University, May 2026. Designed pre/post surveys and observation protocols, analyzed participant feedback, and wrote the evaluation report with curriculum recommendations.
 - **Colleges Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2024 ([portfolio](https://github.com/DilanKaraguler/COLAPortfolio)).
-- **Certification in College Teaching Institute**, Michigan State University, May 2024.
 
 ## Service and leadership
 
