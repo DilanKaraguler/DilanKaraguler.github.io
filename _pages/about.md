@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Mathematics at Michigan State University, advised by [
 
 My work sits between applied algebraic topology and machine learning. I develop new homology theories for directed graphs and path complexes, most recently **Mayer path homology**, and turn them into topological features that graph neural networks can use on molecular, dynamical and engineering data. I also bring these tools to industry: at Intel I have built graph and GNN pipelines for chip-layout analysis and yield workflows.
 
-Before MSU, I earned my M.S. (2021) and B.S. (2019, honor student) in Mathematics at Middle East Technical University (METU) in Ankara, where my master's thesis surveyed multidimensional persistence theory.
+Before MSU, I earned my M.S. (2021) and B.S. (2019, honor student) in Mathematics at Middle East Technical University (METU) in Ankara, where my master's thesis, supervised by [Assoc. Prof. Semra Pamuk](https://users.metu.edu.tr/pasemra/), surveyed multidimensional persistence theory.
 
 **Research interests**
 
