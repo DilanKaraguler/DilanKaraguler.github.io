@@ -28,5 +28,5 @@ nav_order: 1
 
 ## Poster presentations
 
-- **SIAM Great Lakes Section Meeting**, Illinois Institute of Technology, Chicago, IL, September 2025.
+- **Mayer Path Topology and Persistence** (with G.-W. Wei). SIAM Great Lakes Section Meeting, Illinois Institute of Technology, Chicago, IL, September 2025.
 - **Mayer Path Topology and Persistence** (with G.-W. Wei). Mathematics of Data, Dynamics, and Life Sciences Conference, University of California, Irvine, March 2025.
