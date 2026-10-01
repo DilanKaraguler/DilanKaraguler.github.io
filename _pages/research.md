@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: Research experience, talks and poster presentations.
+description: Research experience and conferences. Talks and posters are on the <a href="/publications/">publications</a> page.
 nav: true
 nav_order: 2
 ---
@@ -21,18 +21,6 @@ nav_order: 2
 **M.S. thesis**, Middle East Technical University <span style="float:right">2019 – 2021</span>
 
 - _A Survey on Multidimensional Persistence Theory_, advised by Assoc. Prof. Semra Pamuk.
-
-## Talks
-
-- **Mayer Path Homology.** TDA Seminar, Department of Computational Mathematics, Science and Engineering (CMSE), Michigan State University.
-- **Mayer Homology and Applications.** Invited lecture, _AI in Mathematics_ course, Michigan State University.
-- **Intersection Homology and Applications.** Invited lecture, _AI in Mathematics_ course, Michigan State University.
-- **From Data to Barcodes.** Graduate Student Seminar, Middle East Technical University, April 2021.
-
-## Poster presentations
-
-- **SIAM Great Lakes Section Meeting**, Illinois Institute of Technology, Chicago, IL, September 2025.
-- **Mathematics of Data, Dynamics, and Life Sciences Conference**, University of California, Irvine, March 2025.
 
 ## Selected conferences and workshops attended
 
