@@ -49,6 +49,8 @@ Before MSU, I earned my M.S. (2021) and B.S. (2019, honor student) in Mathematic
 </style>
 <ul class="timeline">
   <li><span class="tl-date">May 2027</span><span class="tl-text">Expected Ph.D. completion.</span></li>
+  <li><span class="tl-date">Fall 2026</span><span class="tl-text">Teaching MTH 314 Matrix Algebra as instructor.</span></li>
+  <li><span class="tl-date">Fall 2026</span><span class="tl-text">Started a yearlong teaching workshop series for first-year graduate students, co-led with <a href="https://sites.google.com/view/eloymorenonadales/home">Eloy Moreno-Nadales</a>.</span></li>
   <li><span class="tl-date">Jul 2026</span><span class="tl-text"><a href="https://doi.org/10.3934/fods.2026025">Mayer Path Homology</a> (with G.-W. Wei) accepted to <em>Foundations of Data Science</em>.</span></li>
   <li><span class="tl-date">May 2026</span><span class="tl-text">Started my second Intel internship: Software Engineer Intern in Oregon, extracting schematic topology from chip layout files.</span></li>
   <li><span class="tl-date">May 2026</span><span class="tl-text">Program evaluator for the AI for Advanced Semiconductor Manufacturing Workshop at MSU.</span></li>
@@ -56,10 +58,11 @@ Before MSU, I earned my M.S. (2021) and B.S. (2019, honor student) in Mathematic
   <li><span class="tl-date">May 2025</span><span class="tl-text">Started my first Intel internship: Graduate Technical Intern, applying graph neural networks to chip-layout pattern analysis.</span></li>
   <li><span class="tl-date">May 2025</span><span class="tl-text">Received the Excellence in Teaching Award, MSU Department of Mathematics.</span></li>
   <li><span class="tl-date">Mar 2025</span><span class="tl-text">Poster at the Mathematics of Data, Dynamics, and Life Sciences Conference, UC Irvine.</span></li>
+  <li><span class="tl-date">Aug 2024</span><span class="tl-text">Became Lead Teaching Assistant in the MSU Department of Mathematics.</span></li>
+  <li><span class="tl-date">Summer 2024</span><span class="tl-text">Graduate Lead at the Center for Instructional Mentoring and mentor in the ACES program for incoming international graduate students.</span></li>
   <li><span class="tl-date">Summer 2024</span><span class="tl-text">Colleges Online Learning Academy (COLA) Fellowship, Michigan State University.</span></li>
   <li><span class="tl-date">Apr 2024</span><span class="tl-text">Co-organized the Graduate Student Topology and Geometry Conference at MSU.</span></li>
-  <li><span class="tl-date">Aug 2023</span><span class="tl-text">Became Lead Teaching Assistant in the MSU Department of Mathematics.</span></li>
-  <li><span class="tl-date">May 2023</span><span class="tl-text">Research Mentor for the Topology RTG at MSU.</span></li>
+  <li><span class="tl-date">Summer 2023</span><span class="tl-text">Research Mentor for the Topology RTG at MSU, guiding a student through Morse theory.</span></li>
   <li><span class="tl-date">Aug 2022</span><span class="tl-text">Started my Ph.D. in Mathematics at Michigan State University; joined the AWM MSU Chapter board.</span></li>
   <li><span class="tl-date">Sep 2021</span><span class="tl-text">Completed my M.S. in Mathematics at METU with the thesis <em>A Survey on Multidimensional Persistence Theory</em>.</span></li>
 </ul>

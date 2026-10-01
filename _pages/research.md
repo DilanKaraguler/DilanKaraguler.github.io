@@ -14,6 +14,8 @@ nav_order: 2
 - Developing **Mayer path homology**, a homology theory for directed graphs and path complexes built on N-nilpotent (Mayer) chain complexes, together with its persistent version.
 - Computing topological features in Python (GUDHI, NumPy, PyTorch) and combining them with graph neural networks for molecular, dynamical and engineering data.
 
+**Graduate Research Assistant**, Department of Mathematics, Michigan State University <span style="float:right">Spring 2026</span>
+
 **Research Mentor**, Topology RTG, Michigan State University <span style="float:right">May – June 2023</span>
 
 **M.S. thesis**, Middle East Technical University <span style="float:right">2019 – 2021</span>
