@@ -9,6 +9,12 @@ nav_order: 4
 
 **Excellence in Teaching Award**, Department of Mathematics, Michigan State University, May 2025.
 
+## Teaching philosophy
+
+My goal is to help students move from watching mathematics to doing it. Three practices carry that goal: I invite students to the board and let them lead parts of the lecture, I open every topic by explaining why we are learning it and where it is used, and I run the classroom as a dialogue where mistakes are welcome.
+
+[Read my full teaching philosophy (PDF)]({{ '/assets/pdf/teaching_philosophy.pdf' | relative_url }})
+
 ## Teaching roles
 
 **Lead Teaching Assistant**, Department of Mathematics, Michigan State University <span style="float:right">Aug 2023 – present</span>
