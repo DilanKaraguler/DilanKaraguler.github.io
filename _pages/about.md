@@ -52,6 +52,7 @@ Before MSU, I earned my M.S. (2021) and B.S. (2019, honor student) in Mathematic
   <li><span class="tl-date">Fall 2026</span><span class="tl-text">Teaching MTH 314 Matrix Algebra as instructor.</span></li>
   <li><span class="tl-date">Fall 2026</span><span class="tl-text">Started a yearlong teaching workshop series for first-year graduate students, co-led with <a href="https://sites.google.com/view/eloymorenonadales/home">Eloy Moreno-Nadales</a>.</span></li>
   <li><span class="tl-date">Jul 2026</span><span class="tl-text"><a href="https://doi.org/10.3934/fods.2026025">Mayer Path Homology</a> (with G.-W. Wei) accepted to <em>Foundations of Data Science</em>.</span></li>
+  <li><span class="tl-date">Summer 2026</span><span class="tl-text">Awarded the Doctoral Student Summer Internship Fellowship by the MSU Graduate School.</span></li>
   <li><span class="tl-date">May 2026</span><span class="tl-text">Started my second Intel internship: Software Engineer Intern in Oregon, extracting schematic topology from chip layout files.</span></li>
   <li><span class="tl-date">May 2026</span><span class="tl-text">Program evaluator for the AI for Advanced Semiconductor Manufacturing Workshop at MSU.</span></li>
   <li><span class="tl-date">Sep 2025</span><span class="tl-text">Poster at the SIAM Great Lakes Section Meeting, Illinois Institute of Technology.</span></li>

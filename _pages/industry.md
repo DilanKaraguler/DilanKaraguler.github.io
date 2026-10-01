@@ -12,6 +12,7 @@ nav_order: 5
 - Built a graph pipeline that extracts schematic topology from chip layout files.
 - Used subgraph embeddings to classify analog, digital and fill devices.
 - Worked with design-for-manufacturing (DFM) engineers to fit the tools into their workflow.
+- Supported by the MSU Graduate School's Doctoral Student Summer Internship Fellowship.
 
 **Graduate Technical Intern**, Intel <span style="float:right">May – Aug 2025</span>
 
