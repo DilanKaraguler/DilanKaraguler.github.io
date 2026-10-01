@@ -22,8 +22,8 @@ nav_order: 1
 ## Talks
 
 - **Mayer Path Homology.** TDA Seminar, Department of Computational Mathematics, Science and Engineering (CMSE), Michigan State University, April 2026. [[slides]({{ '/assets/pdf/talks/mayer_path_homology_cmse_tda_seminar_2026.pdf' | relative_url }})]
-- **Interaction Topology in TDA.** Invited lecture, MTH 994 _Mathematics-Assisted AI and AI-inspired Mathematics_, Michigan State University, October 2025.
-- **Mayer Topology in TDA.** Invited lecture, MTH 994 _Mathematics-Assisted AI and AI-inspired Mathematics_, Michigan State University, October 2025.
+- **Interaction Topology in TDA.** Invited lecture, MTH 994 _Mathematics-Assisted AI and AI-inspired Mathematics_, Michigan State University, October 2025. [[slides]({{ '/assets/pdf/talks/interaction_topology_in_tda_2025.pdf' | relative_url }})]
+- **Mayer Topology in TDA.** Invited lecture, MTH 994 _Mathematics-Assisted AI and AI-inspired Mathematics_, Michigan State University, October 2025. [[slides]({{ '/assets/pdf/talks/mayer_topology_in_tda_2025.pdf' | relative_url }})]
 - **From Data to Barcodes.** Graduate Student Seminar, Middle East Technical University, April 2021.
 
 ## Poster presentations
