@@ -2,10 +2,12 @@
 layout: page
 permalink: /research/
 title: research
-description: Research experience and conferences. Talks and posters are on the <a href="/publications/">publications</a> page.
+description: Research experience and conferences.
 nav: true
 nav_order: 2
 ---
+
+Talks and posters are on the [publications]({{ '/publications/' | relative_url }}) page.
 
 ## Research experience
 

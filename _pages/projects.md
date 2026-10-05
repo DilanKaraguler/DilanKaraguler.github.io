@@ -2,11 +2,13 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research code and computational projects. More on <a href="https://github.com/DilanKaraguler">GitHub</a>.
+description: Research code and computational projects.
 nav: true
 nav_order: 3
 horizontal: false
 ---
+
+More on [GitHub](https://github.com/DilanKaraguler).
 
 <!-- Project cards come from the files in _projects/ -->
 {% assign sorted_projects = site.projects | sort: "importance" %}

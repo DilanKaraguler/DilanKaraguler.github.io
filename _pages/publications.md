@@ -2,10 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications, talks and poster presentations. Also on <a href="https://scholar.google.com/citations?user=GtEuZ08AAAAJ">Google Scholar</a>.
+description: Publications, talks and poster presentations.
 nav: true
 nav_order: 1
 ---
+
+Also on [Google Scholar](https://scholar.google.com/citations?user=GtEuZ08AAAAJ).
 
 <!-- _pages/publications.md : entries come from _bibliography/papers.bib -->
 
