@@ -5,6 +5,8 @@ permalink: /teaching/what-students-say/
 description: Selected comments from anonymous student surveys.
 nav: false
 ---
+
+[Evidence of teaching effectiveness (PDF)]({{ '/assets/pdf/teaching_evidence.pdf' | relative_url }}): survey ratings from Fall 2024 MTH 133 and these comments in one document.
 <style>
   .student-quote { text-align: center; margin: 1.25rem auto 1.75rem; max-width: 40rem; }
   .student-quote .sq-text { font-style: italic; margin-bottom: 0.25rem; }

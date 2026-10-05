@@ -12,6 +12,7 @@ nav_order: 6
 - [Teaching CV]({{ '/assets/pdf/cv_teaching.pdf' | relative_url }}) (PDF)
 - [Industry résumé]({{ '/assets/pdf/cv_industry.pdf' | relative_url }}) (PDF)
 - [Teaching philosophy]({{ '/assets/pdf/teaching_philosophy.pdf' | relative_url }}) (PDF)
+- [Evidence of teaching effectiveness]({{ '/assets/pdf/teaching_evidence.pdf' | relative_url }}) (PDF)
 
 ## Education
 
