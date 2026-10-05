@@ -5,6 +5,11 @@ permalink: /teaching/philosophy/
 description: How I teach and why.
 nav: false
 ---
+<style>
+  .student-quote { text-align: center; margin: 1.25rem auto 1.75rem; max-width: 40rem; }
+  .student-quote .sq-text { font-style: italic; margin-bottom: 0.25rem; }
+  .student-quote .sq-cite { font-size: 0.85rem; color: var(--global-theme-color); margin: 0; }
+</style>
 
 [Download as PDF]({{ '/assets/pdf/teaching_philosophy.pdf' | relative_url }})
 
@@ -14,6 +19,11 @@ My teaching philosophy has been shaped by the many instructors who guided me thr
 
 Learning mathematics is not comfortable, and I want my students to see that we are all in that same position together. One of my instructors once compared learning to watching someone lift weights: it looks easy until you try to lift the weight yourself. A solution feels manageable while the instructor writes it on the board, but understanding only comes from attempting it and feeling its difficulty. This is why the first practice in my classroom is inviting students to the board. In every class, I describe a problem, explain clearly what I am asking them to do, and invite a volunteer to come up. Then I wait. I do not call on anyone, and I do not fill the silence; I let the awkward wait time do its work. If no one feels ready to finish a problem, I ask for an idea or a first step, and we complete it together. Going to the board is lifting the weight, and doing it among classmates who are just as unsure turns a private struggle into a shared one. I want to be realistic about this practice: it requires a real commitment of class time. Early in a semester the wait can last two or three minutes, and it shrinks to about ten seconds as the class grows comfortable. The results justify the time. This semester in Matrix Algebra, only three or four students answered questions or volunteered at the board during the first two weeks; by the fifth week, at least twelve different students had come to the board. Over the longer term, several students who contributed the most at the board went on to become Undergraduate Learning Assistants (ULAs) and now lead their own sessions. Watching their self-confidence grow has been one of the most rewarding parts of my teaching.
 
+<div class="student-quote">
+  <p class="sq-text">“I liked how at the beginning she had students come up to the board to do the problems so maybe more of that.”</p>
+  <p class="sq-cite">— MTH 133 Calculus II, Fall 2024</p>
+</div>
+
 ## Starting with purpose
 
 Abstract material often raises a silent “so what?” question, and students who cannot answer it tend to disengage. For that reason, my second practice is to open each class, and each new topic, by explaining why we are learning it, what exactly we are learning, and how it is used in real life or in their future studies. I start the semester by applying the same idea to the course itself. I tell students why I chose to teach it, and I ask them why they chose to take it. In Transitions to Proofs, I explained that I love teaching reasoning because it is a philosophy in itself and a chance to see everyone's perspective. Some students answer that the course is required, which is completely fine; my aim is to give them a question they can keep asking themselves: why am I doing what I am doing? I adapt the question to where students are in their studies. I ask first-year students which major they hope to pursue and why, and I ask students later in their degree how the course fits their career path. Answering the question of purpose first gives students a reason to stay with the abstraction that follows. In Matrix Algebra, before introducing matrices and systems of linear equations, I show how they are used in data science and other fields, and I see nodding faces and noticeably sharper attention. The same approach shapes the recitation materials I have written for Calculus I and Differential Equations: a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons, and spring equations presented through car suspension systems. I have observed that engineering students in particular connect more deeply with the material when they can see where it leads.
@@ -22,9 +32,19 @@ Abstract material often raises a silent “so what?” question, and students wh
 
 I begin every class with a single page that recaps the previous lecture and motivates the day's topic. In lectures, it reminds students where we left off and why the next idea is needed. In recitations, it becomes a short handout that summarizes the week's methods and explains when and why each one is used. Students then attempt the problems on their own before we go over them together, so the page bridges the lecture and their own work. Students consistently single these pages out. In mid-semester feedback from my Fall 2024 Calculus II recitations, 17 of 35 students brought up the weekly summary sheets as helpful, without being asked about them. One wrote that "almost every recitation, she would create a handout that summarizes the units + concepts we will be talking about in class. They helped me further understand the topics at hand." Another said the notes "summarized content well and were very useful for studying."
 
+<div class="student-quote">
+  <p class="sq-text">“Her review sheets for each topic and her explaining them is extremely helpful.”</p>
+  <p class="sq-cite">— MTH 133 Calculus II, Fall 2024</p>
+</div>
+
 ## Class as dialogue
 
 Dialogue is at the heart of my fourth practice. Since the ancient Greeks, conversation has been the place where knowledge is questioned, tested, and transformed, and I want my classroom to work the same way. I view teaching as two-way communication built on the instructor's guidance and the students' feedback, whether that feedback comes as answers to my questions or as the questions they ask in return. At its best, a dialogue lets students' questions point the way forward. When I introduced determinants in Matrix Algebra, I began with the cofactor expansion along the first row. After we finished the first example, a student asked why the first row was so special. I was delighted, because that exact question was written on my next slide. Watching students open the next part of the lecture themselves is one of my favorite moments in teaching, and I recognize it from my own analysis course, where our instructor guided us so that the motivation for each new problem seemed to come from us. A dialogue like this can only happen in a safe space, because students will not risk speaking up, or walking to the board, in a room where errors are treated as failures. Learning can feel like stepping into a dark cave: uncertain, sometimes uncomfortable, but full of discovery. I can describe the shape of the walls and the direction of the passageways, but the student is the one who brings the light, and they will only do so if they know stumbling is expected. To build that space, I show students that mistakes are not something to fear. When I make a mistake on the board, I do not get frustrated; I correct it openly, often with the class's help. I also tell students about the mistakes I made when I first learned the topic myself. This safe space is what makes the first practice possible: the growth from three or four volunteers to at least twelve students at the board in Matrix Algebra happened because students saw that a wrong answer led to discussion, not embarrassment. When students feel free to be wrong and ask the question before I do, they are no longer following the mathematics; they are building it.
+
+<div class="student-quote">
+  <p class="sq-text">“Having students answer was helpful. Some had similar challenges as me and the TA explained these errors.”</p>
+  <p class="sq-cite">— MTH 133 Calculus II, Fall 2024</p>
+</div>
 
 ## Mentoring
 

@@ -48,29 +48,55 @@ nav: false
 
 Selected comments from anonymous student surveys.
 
-> I've loved math for most of my life and lost it last year when I took AP Calc. I was kind of dreading this class but it made me regain my love for math very strongly.
+<style>
+  .student-quote { text-align: center; margin: 1.25rem auto 1.75rem; max-width: 40rem; }
+  .student-quote .sq-text { font-style: italic; margin-bottom: 0.25rem; }
+  .student-quote .sq-cite { font-size: 0.85rem; color: var(--global-theme-color); margin: 0; }
+</style>
 
-_MTH 133 Calculus II, Fall 2024 (mid-semester recitation survey)_
+### MTH 133 Calculus II, Fall 2024
 
-> Overall the TA had everything a student wishes for. Helpful, available, cooperative + understanding. … The way she'd give us time to challenge ourselves, then she gets into the correct solution was very effective for quizzes as it puts me through the thinking process I need to go through.
+<div class="student-quote">
+  <p class="sq-text">“I've loved math for most of my life and lost it last year when I took AP Calc. I was kind of dreading this class but it made me regain my love for math very strongly.”</p>
+  <p class="sq-cite">— Mid-semester recitation survey</p>
+</div>
 
-_MTH 133 Calculus II, Fall 2024 (mid-semester recitation survey)_
+<div class="student-quote">
+  <p class="sq-text">“Overall the TA had everything a student wishes for. Helpful, available, cooperative + understanding. … The way she'd give us time to challenge ourselves, then she gets into the correct solution was very effective for quizzes as it puts me through the thinking process I need to go through.”</p>
+  <p class="sq-cite">— Mid-semester recitation survey</p>
+</div>
 
-> Dilan's worksheets and explanations of how to solve problems slightly differently than [the lecturer] was also very helpful because it made it easy to look at some topics from a different perspective.
+<div class="student-quote">
+  <p class="sq-text">“She lets us attempt to figure out each problem on our own, then she'll go over it explaining it. Makes it very nice.”</p>
+  <p class="sq-cite">— Mid-semester recitation survey</p>
+</div>
 
-_MTH 133 Calculus II, Fall 2024 (end-of-semester SPLS)_
+<div class="student-quote">
+  <p class="sq-text">“She seems to understand the material thoroughly and she was able to put it in words that were easy to understand.”</p>
+  <p class="sq-cite">— Mid-semester recitation survey</p>
+</div>
 
-> She seems to understand the material thoroughly and she was able to put it in words that were easy to understand.
+<div class="student-quote">
+  <p class="sq-text">“Dilan's worksheets and explanations of how to solve problems slightly differently than [the lecturer] was also very helpful because it made it easy to look at some topics from a different perspective.”</p>
+  <p class="sq-cite">— End-of-semester SPLS</p>
+</div>
 
-_MTH 133 Calculus II, Fall 2024 (mid-semester recitation survey)_
+<div class="student-quote">
+  <p class="sq-text">“… the recitations were very nice and allowed time to learn from our mistakes.”</p>
+  <p class="sq-cite">— End-of-semester SPLS</p>
+</div>
 
-> The recitations were very supportive, both TAs were passionate about helping students learn.
+### MTH 299 Transitions, Fall 2025
 
-_MTH 299 Transitions, Fall 2025 (end-of-semester SPLS)_
+<div class="student-quote">
+  <p class="sq-text">“The recitations were very supportive, both TAs were passionate about helping students learn.”</p>
+  <p class="sq-cite">— End-of-semester SPLS</p>
+</div>
 
-> Recitations helped my understanding a lot by getting to work out problems with other students and having the TAs explain thoroughly.
-
-_MTH 299 Transitions, Fall 2025 (end-of-semester SPLS)_
+<div class="student-quote">
+  <p class="sq-text">“Recitations helped my understanding a lot by getting to work out problems with other students and having the TAs explain thoroughly.”</p>
+  <p class="sq-cite">— End-of-semester SPLS</p>
+</div>
 
 ## Mentorship and leadership in teaching
 
