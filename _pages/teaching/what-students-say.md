@@ -69,3 +69,8 @@ nav: false
   <p class="sq-text">“Recitations helped my understanding a lot by getting to work out problems with other students and having the TAs explain thoroughly.”</p>
   <p class="sq-cite">— End-of-semester SPLS</p>
 </div>
+
+<div class="student-quote">
+  <p class="sq-text">“I knew exactly where to go when I needed help for items outside of class, and felt like there was a small community of people who often went together to the help room to get things like homework and studying done. Through this, I felt like I built a good bond with the instructors as well as the T.A.'s which helped my morale within this class.”</p>
+  <p class="sq-cite">— End-of-semester SPLS</p>
+</div>
