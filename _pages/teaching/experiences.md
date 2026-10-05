@@ -44,6 +44,34 @@ nav: false
 
 **Middle East Technical University**, Undergraduate Teaching Assistant, Calculus for Mathematics Students <span style="float:right">2018 – 2019</span>
 
+## What students say
+
+Selected comments from anonymous student surveys.
+
+> I've loved math for most of my life and lost it last year when I took AP Calc. I was kind of dreading this class but it made me regain my love for math very strongly.
+
+_MTH 133 Calculus II, Fall 2024 (mid-semester recitation survey)_
+
+> Overall the TA had everything a student wishes for. Helpful, available, cooperative + understanding. … The way she'd give us time to challenge ourselves, then she gets into the correct solution was very effective for quizzes as it puts me through the thinking process I need to go through.
+
+_MTH 133 Calculus II, Fall 2024 (mid-semester recitation survey)_
+
+> Dilan's worksheets and explanations of how to solve problems slightly differently than [the lecturer] was also very helpful because it made it easy to look at some topics from a different perspective.
+
+_MTH 133 Calculus II, Fall 2024 (end-of-semester SPLS)_
+
+> She seems to understand the material thoroughly and she was able to put it in words that were easy to understand.
+
+_MTH 133 Calculus II, Fall 2024 (mid-semester recitation survey)_
+
+> The recitations were very supportive, both TAs were passionate about helping students learn.
+
+_MTH 299 Transitions, Fall 2025 (end-of-semester SPLS)_
+
+> Recitations helped my understanding a lot by getting to work out problems with other students and having the TAs explain thoroughly.
+
+_MTH 299 Transitions, Fall 2025 (end-of-semester SPLS)_
+
 ## Mentorship and leadership in teaching
 
 **Lead Teaching Assistant**, Department of Mathematics, Michigan State University <span style="float:right">Aug 2024 – present</span>
