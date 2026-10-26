@@ -23,6 +23,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=GtEuZ08AAAAJ)
 
 ## Talks
 
+- **Teaching lightning talk** (title to be announced). _Sparks: Teaching Lightning Talks by Graduate Instructors_, Mathematics Teaching Seminar, Department of Mathematics, Michigan State University, November 17, 2026 (upcoming).
 - **Mayer Path Homology.** TDA Seminar, Department of Computational Mathematics, Science and Engineering (CMSE), Michigan State University, April 2026. [[slides]({{ '/assets/pdf/talks/mayer_path_homology_cmse_tda_seminar_2026.pdf' | relative_url }})]
 - **Interaction Topology in TDA.** Invited lecture, MTH 994 _Mathematics-Assisted AI and AI-inspired Mathematics_, Michigan State University, October 2025. [[slides]({{ '/assets/pdf/talks/interaction_topology_in_tda_2025.pdf' | relative_url }})]
 - **Mayer Topology in TDA.** Invited lecture, MTH 994 _Mathematics-Assisted AI and AI-inspired Mathematics_, Michigan State University, October 2025. [[slides]({{ '/assets/pdf/talks/mayer_topology_in_tda_2025.pdf' | relative_url }})]
