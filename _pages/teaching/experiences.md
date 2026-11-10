@@ -138,7 +138,11 @@ Course materials I designed and wrote, newest first.
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 132 Calculus I**, MSU, Lead TA</span><span class="exp-term">Fall 2025</span></div>
 
-- Prepared recitation worksheet materials, including a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
+- Wrote the weekly group activities for recitations. Each opens with a short note on why the topic matters and pairs the problems with a Desmos exploration:
+  - **Squeeze Theorem:** groups test bounding functions in Desmos, then use a unit-circle construction to show that $$\frac{\sin x}{x} \to 1$$ as $$x \to 0$$.
+  - **Rates of change:** a falling ball, a chemical reaction, gravity, and an ancient water tank whose level follows a sine curve ([sample worksheet, PDF]({{ '/assets/pdf/teaching/rates_of_change_sample_worksheet.pdf' | relative_url }})).
+  - **Derivatives and graphs:** groups fill an animated vase with water and drive an animated car, linking the signs of the first and second derivatives to the shape of a graph.
+  - **Optimization:** designing a soda can that uses the least aluminum, splitting game time between two zones to collect the most loot, and building the shortest path to a curved road.
 
 </div>
 <div class="exp-entry" markdown="1">
