@@ -65,13 +65,13 @@ nav: false
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 154 Calculus II for Mathematics Students**, METU, Undergraduate Teaching Assistant (homework grader)</span><span class="exp-term">Spring 2019</span></div>
 
-- Graded homework (more than 300 students across MTH 153 and MTH 154).
+- Graded homework for more than 300 students.
 
 </div>
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 153 Calculus I for Mathematics Students**, METU, Undergraduate Teaching Assistant (homework grader)</span><span class="exp-term">Fall 2018</span></div>
 
-- Graded homework (more than 300 students across MTH 153 and MTH 154).
+- Graded homework for more than 300 students.
 
 </div>
 <div class="exp-entry" markdown="1">
