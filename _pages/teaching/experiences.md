@@ -11,42 +11,61 @@ nav: false
 
 ## Courses taught
 
-**MTH 314 Matrix Algebra with Computational Applications**, MSU, Instructor (1 section) <span style="float:right">Fall 2026</span>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 314 Matrix Algebra with Computational Applications**, MSU, Instructor (1 section)</span><span class="exp-term">Fall 2026</span></div>
 
 - Prepare and deliver lectures, facilitate group work, and hold help-room hours.
 
-**MTH 299 Transitions**, MSU, Teaching Assistant (2 sections) <span style="float:right">Fall 2025</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 299 Transitions**, MSU, Teaching Assistant (2 sections)</span><span class="exp-term">Fall 2025</span></div>
 
 - Co-taught with [Ester Sgallova](https://sites.google.com/view/sgallova/homepage/teaching?authuser=0): led weekly recitations, wrote homework solutions, graded homework and quizzes, and held help-room hours.
 
-**MTH 314 Matrix Algebra with Computational Applications**, MSU, Teaching Assistant (1 section) <span style="float:right">Spring 2025</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 314 Matrix Algebra with Computational Applications**, MSU, Teaching Assistant (1 section)</span><span class="exp-term">Spring 2025</span></div>
 
 - Graded homework and the final exam, ran quiz and exam review sessions, and held help-room hours.
 
-**MTH 133 Calculus II**, MSU, Teaching Assistant (1 section) <span style="float:right">Fall 2024</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 133 Calculus II**, MSU, Teaching Assistant (1 section)</span><span class="exp-term">Fall 2024</span></div>
 
-**MTH 235 Differential Equations**, MSU, Teaching Assistant (3 sections) <span style="float:right">Spring 2024</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 235 Differential Equations**, MSU, Teaching Assistant (3 sections)</span><span class="exp-term">Spring 2024</span></div>
 
 - Wrote recitation notes with lecture summaries and practice problems, graded quizzes, held help-room hours, and followed up with students in online sections.
 
-**MTH 133 Calculus II**, MSU, Teaching Assistant (3 sections: 2 online, 1 in person) <span style="float:right">Fall 2023</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 133 Calculus II**, MSU, Teaching Assistant (3 sections: 2 online, 1 in person)</span><span class="exp-term">Fall 2023</span></div>
 
 - Prepared weekly lecture summaries for the recall session before group work, graded and proctored worksheets and quizzes, held help-room hours, and tracked student progress, reaching out especially in online sections.
 
-**MTH 133 Calculus II**, MSU, Teaching Assistant (1 online asynchronous section) <span style="float:right">Summer 2023</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 133 Calculus II**, MSU, Teaching Assistant (1 online asynchronous section)</span><span class="exp-term">Summer 2023</span></div>
 
 - Contacted students weekly by email and tracked their course activity.
 
-**Middle East Technical University**, Graduate Teaching Assistant <span style="float:right">2020 – 2022</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Middle East Technical University**, Graduate Teaching Assistant</span><span class="exp-term">2020 – 2022</span></div>
 
 - MTH 154 Calculus II for Mathematics Students (Spring 2022), MTH 153 Calculus I for Mathematics Students (Fall 2021), MTH 120 Calculus II for Engineering Students (Spring 2021), MTH 119 Calculus I for Engineering Students (Fall 2020).
 - Led recitations and office hours, and graded and proctored online and in-person exams.
 
-**Middle East Technical University**, Undergraduate Teaching Assistant, Calculus for Mathematics Students <span style="float:right">2018 – 2019</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Middle East Technical University**, Undergraduate Teaching Assistant, Calculus for Mathematics Students</span><span class="exp-term">2018 – 2019</span></div>
 
+</div>
 ## Mentorship and leadership in teaching
 
-**Lead Teaching Assistant**, Department of Mathematics, Michigan State University <span style="float:right">Aug 2024 – present</span>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Lead Teaching Assistant**, Department of Mathematics, Michigan State University</span><span class="exp-term">Aug 2024 – present</span></div>
 
 - **2026 – 2027:** co-leading a yearlong workshop series for first-year graduate TAs with [Eloy Moreno-Nadales](https://sites.google.com/view/eloymorenonadales/home). Sessions so far:
   - _Introductions:_ a gallery walk at whiteboards arranged in a circle, a conversation on what makes math instruction welcoming or alienating, and a "Math PhD passport" and department scavenger hunt that connect new students with senior graduate students.
@@ -55,22 +74,32 @@ nav: false
 - **Spring 2025 (MTH 133):** ran TA meetings, prepared weekly recitation worksheets, and set up Teams tools to track the TA timeline and grading deadlines.
 - **Fall 2024:** starting in August, ran the orientation for undergraduate learning assistants (ULAs), held mock-teaching and feedback sessions, and observed ULAs and GTAs during the semester to give feedback. As MTH 133 pod leader, ran meetings with recitation leaders and prepared the weekly recitation worksheets.
 
-**Graduate Lead, Center for Instructional Mentoring (CIM)**, Department of Mathematics, MSU <span style="float:right">Summer 2024</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Graduate Lead, Center for Instructional Mentoring (CIM)**, Department of Mathematics, MSU</span><span class="exp-term">Summer 2024</span></div>
 
 - Met weekly with first-time graduate instructors to guide them, and introduced the teaching technology they could use.
 - Created a teaching handbook, built on interviews with senior GTAs, to guide first-time teachers.
 
-**Mentor, Academic Culture and English Skills (ACES) Program**, Michigan State University <span style="float:right">Summer 2024</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Mentor, Academic Culture and English Skills (ACES) Program**, Michigan State University</span><span class="exp-term">Summer 2024</span></div>
 
 - Mentored incoming international graduate students preparing to become MSU teaching assistants: U.S. classroom culture, university structure and cross-cultural communication, plus social events.
 
-**Research Mentor, Topology RTG**, Michigan State University <span style="float:right">Summer 2023</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Research Mentor, Topology RTG**, Michigan State University</span><span class="exp-term">Summer 2023</span></div>
 
 - Guided an undergraduate student through readings in Morse theory and gave feedback on the final paper and presentation.
 
-**Supervisor, Math Learning Center (MLC)**, Michigan State University <span style="float:right">Fall 2022 – Spring 2023, Fall 2024</span>
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Supervisor, Math Learning Center (MLC)**, Michigan State University</span><span class="exp-term">Fall 2022 – Spring 2023, Fall 2024</span></div>
 
 - Managed how tutors were distributed among students and arranged the room to match demand. (Teaching Exemption Fellowship, 2022 – 2023.)
+
+</div>
 
 ## Teaching development and educational research
 

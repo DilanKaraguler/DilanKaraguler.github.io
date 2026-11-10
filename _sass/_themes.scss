@@ -209,3 +209,69 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+/*******************************************************************************
+ * SITE CUSTOM STYLES (Dilan): readability and the teaching-experience list.
+ * Colors and fonts come from the theme variables above; nothing here changes them.
+ ******************************************************************************/
+
+// Readability: slightly larger body text, more line spacing, comfortable line
+// length for long prose, and more breathing room above section headings.
+article p,
+article li {
+  font-size: 0.95rem;
+  line-height: 1.68;
+}
+article > p,
+article > ul,
+article > ol,
+article > blockquote {
+  max-width: 48rem;
+}
+article h2 {
+  margin-top: 2.25rem;
+}
+article h3 {
+  margin-top: 1.75rem;
+}
+article > h2:first-child,
+article > h3:first-child {
+  margin-top: 0;
+}
+
+// Teaching experience entries: one block per role, separated by a thin light rule.
+// Usage: <div class="exp-entry" markdown="1"><div class="exp-head">
+//   <span class="exp-title" markdown="span">**Title**, details</span>
+//   <span class="exp-term">Fall 2025</span></div> ...bullets... </div>
+.exp-entry {
+  border-bottom: 1px solid var(--global-divider-color);
+  padding: 0.85rem 0 0.35rem;
+}
+:not(.exp-entry) + .exp-entry {
+  border-top: 1px solid var(--global-divider-color);
+}
+.exp-entry ul {
+  margin-top: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+.exp-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+.exp-term {
+  flex-shrink: 0;
+  white-space: nowrap;
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+}
+@media (max-width: 576px) {
+  .exp-head {
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+  .exp-term {
+    white-space: normal;
+  }
+}
