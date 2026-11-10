@@ -121,6 +121,12 @@ Course materials I designed and wrote, newest first.
 
 </div>
 <div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 132 Calculus I**, MSU, Lead TA</span><span class="exp-term">Fall 2025</span></div>
+
+- Wrote recitation material including a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
+
+</div>
+<div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 299 Transitions**, MSU</span><span class="exp-term">Fall 2025</span></div>
 
 - Prepared recitation worksheet materials as Lead TA, and wrote the homework solutions.
@@ -130,7 +136,6 @@ Course materials I designed and wrote, newest first.
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 133 Calculus II**, MSU, pod leader and Lead TA</span><span class="exp-term">Fall 2024 – Spring 2025</span></div>
 
 - Prepared the weekly recitation worksheets used across the recitation sections.
-- In Spring 2025, while preparing course materials as Lead TA, wrote a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
 
 </div>
 <div class="exp-entry" markdown="1">
