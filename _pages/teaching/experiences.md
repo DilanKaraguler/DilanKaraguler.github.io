@@ -205,3 +205,9 @@ Course materials I designed and wrote, newest first.
 - Organizing Committee, Graduate Student Topology and Geometry Conference, MSU (April 2024)
 - President / Board Member, Association for Women in Mathematics (AWM), MSU Chapter (2022 – 2025)
 - President, METU Math Club (2015 – 2018)
+
+### Outreach and volunteering
+
+- Proctor, Math Kangaroo Team Competition, Department of Mathematics, MSU (November 2026, upcoming): a new program where teams of 2–4 students solve math problems together
+- Volunteer, Math Night, Marble Elementary School, East Lansing (November 2026, upcoming)
+- Volunteer, MSU Student Food Bank (Spring 2024)
