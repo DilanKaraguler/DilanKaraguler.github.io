@@ -62,13 +62,13 @@ nav: false
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 153 Calculus I and MTH 154 Calculus II for Mathematics Students**, METU, Undergraduate Teaching Assistant (homework grader)</span><span class="exp-term">Fall 2018 – Spring 2019</span></div>
 
-- Graded homework for MTH 153 (Fall 2018) and MTH 154 (Spring 2019), and held review hours.
+- Graded homework for more than 300 students in MTH 153 (Fall 2018) and MTH 154 (Spring 2019).
 
 </div>
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 116 Introduction to Abstract Algebra**, METU, Undergraduate Teaching Assistant (recitation instructor)</span><span class="exp-term">Spring 2017</span></div>
 
-- Conducted the recitations and prepared my own recitation materials.
+- Conducted the recitations for 180 students and prepared my own recitation materials.
 
 </div>
 ## Mentorship and leadership in teaching
@@ -79,7 +79,7 @@ nav: false
 - **2026 – 2027:** co-leading a yearlong workshop series for first-year graduate TAs with [Eloy Moreno-Nadales](https://sites.google.com/view/eloymorenonadales/home). Sessions so far:
   - _Introductions:_ a gallery walk at whiteboards arranged in a circle, a conversation on what makes math instruction welcoming or alienating, and a "Math PhD passport" and department scavenger hunt that connect new students with senior graduate students.
   - _Three Aspects of Teaching:_ group work and a gallery walk on (1) clarity and delivery (board layout, pacing, time traps), (2) communication and language (avoiding words like "trivial" or "obviously", questioning and wait time) and (3) engagement and cohort needs, drawn from the TAs' own classroom observations, to prepare their mock teaching. ([slides, PDF]({{ '/assets/pdf/three_aspects_of_teaching.pdf' | relative_url }}))
-- **Fall 2025 (MTH 299):** prepared recitation worksheet materials, gathered TA feedback for the instructors, and substituted for recitation leaders when needed.
+- **Fall 2025 (MTH 132 Calculus I):** prepared recitation worksheet materials, gathered TA feedback for the instructors, and substituted for recitation leaders when needed.
 - **Spring 2025 (MTH 133):** ran TA meetings, prepared weekly recitation worksheets, and set up Teams tools to track the TA timeline and grading deadlines.
 - **Fall 2024:** starting in August, ran the orientation for undergraduate learning assistants (ULAs), held mock-teaching and feedback sessions, and observed ULAs and GTAs during the semester to give feedback. As MTH 133 pod leader, ran meetings with recitation leaders and prepared the weekly recitation worksheets.
 
@@ -123,13 +123,13 @@ Course materials I designed and wrote, newest first.
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 132 Calculus I**, MSU, Lead TA</span><span class="exp-term">Fall 2025</span></div>
 
-- Wrote recitation material including a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
+- Prepared recitation worksheet materials, including a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
 
 </div>
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 299 Transitions**, MSU</span><span class="exp-term">Fall 2025</span></div>
 
-- Prepared recitation worksheet materials as Lead TA, and wrote the homework solutions.
+- Wrote the homework solutions as a recitation leader.
 
 </div>
 <div class="exp-entry" markdown="1">
