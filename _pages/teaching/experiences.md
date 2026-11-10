@@ -144,6 +144,17 @@ Course materials I designed and wrote, newest first.
   - **Derivatives and graphs:** groups fill an animated vase with water and drive an animated car, linking the signs of the first and second derivatives to the shape of a graph.
   - **Optimization:** designing a soda can that uses the least aluminum, splitting game time between two zones to collect the most loot, and building the shortest path to a curved road.
 
+<div class="desmos-thumbs">
+  <a class="desmos-thumb" href="https://tinyurl.com/132-squeeze1" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/squeeze1.jpg' | relative_url }}" alt="Desmos graph: Squeeze Theorem: bounding functions" loading="lazy"><span>Squeeze Theorem: bounding functions</span></a>
+  <a class="desmos-thumb" href="https://tinyurl.com/132-squeeze2" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/squeeze2.jpg' | relative_url }}" alt="Desmos graph: Squeeze Theorem: unit circle" loading="lazy"><span>Squeeze Theorem: unit circle</span></a>
+  <a class="desmos-thumb" href="https://tinyurl.com/132-water" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/water.jpg' | relative_url }}" alt="Desmos graph: Rates of change: ancient water tank" loading="lazy"><span>Rates of change: ancient water tank</span></a>
+  <a class="desmos-thumb" href="https://tinyurl.com/132-vase" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/vase.jpg' | relative_url }}" alt="Desmos graph: Derivatives: filling a vase" loading="lazy"><span>Derivatives: filling a vase</span></a>
+  <a class="desmos-thumb" href="https://tinyurl.com/132-displacement" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/displacement.jpg' | relative_url }}" alt="Desmos graph: Derivatives: driving a car" loading="lazy"><span>Derivatives: driving a car</span></a>
+  <a class="desmos-thumb" href="https://tinyurl.com/mth132-opt1" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/opt1_soda_can.jpg' | relative_url }}" alt="Desmos graph: Optimization: soda can" loading="lazy"><span>Optimization: soda can</span></a>
+  <a class="desmos-thumb" href="https://tinyurl.com/mth132-opt2" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/opt2_game_loot.jpg' | relative_url }}" alt="Desmos graph: Optimization: game loot" loading="lazy"><span>Optimization: game loot</span></a>
+  <a class="desmos-thumb" href="https://tinyurl.com/mth132-opt-3" title="Open in Desmos"><img src="{{ '/assets/img/teaching/mth132/opt3_shortest_path.jpg' | relative_url }}" alt="Desmos graph: Optimization: shortest path" loading="lazy"><span>Optimization: shortest path</span></a>
+</div>
+
 </div>
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 299 Transitions**, MSU</span><span class="exp-term">Fall 2025</span></div>
