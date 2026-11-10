@@ -60,7 +60,15 @@ nav: false
 
 </div>
 <div class="exp-entry" markdown="1">
-<div class="exp-head"><span class="exp-title" markdown="span">**Middle East Technical University**, Undergraduate Teaching Assistant, Calculus for Mathematics Students</span><span class="exp-term">2018 – 2019</span></div>
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 153 Calculus I and MTH 154 Calculus II for Mathematics Students**, METU, Undergraduate Teaching Assistant (homework grader)</span><span class="exp-term">Fall 2018 – Spring 2019</span></div>
+
+- Graded homework for MTH 153 (Fall 2018) and MTH 154 (Spring 2019), and held review hours.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 116 Introduction to Abstract Algebra**, METU, Undergraduate Teaching Assistant (recitation instructor)</span><span class="exp-term">Spring 2017</span></div>
+
+- Conducted the recitations and prepared my own recitation materials.
 
 </div>
 ## Mentorship and leadership in teaching
@@ -158,6 +166,12 @@ Course materials I designed and wrote, newest first.
 <div class="exp-head"><span class="exp-title" markdown="span">**Calculus I recitation materials**, METU</span><span class="exp-term">2020 – 2022</span></div>
 
 - Wrote a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 116 Introduction to Abstract Algebra**, METU</span><span class="exp-term">Spring 2017</span></div>
+
+- Prepared my own recitation materials as an undergraduate recitation instructor.
 
 </div>
 
