@@ -179,6 +179,7 @@ Course materials I designed and wrote, newest first.
 ## Service and leadership
 
 - Graduate Student Representative, Graduate Studies Committee, Department of Mathematics, MSU (2025 – 2026)
+- Graduate Representative, NatSci Student Advisory Council (SAC), College of Natural Science, MSU (2025 – 2026)
 - President / Board Member, Association for Women in Mathematics (AWM), MSU Chapter (2022 – 2025)
 - Organizing Committee, Graduate Student Topology and Geometry Conference, MSU (April 2024)
 - President, METU Math Club (2015 – 2018)
