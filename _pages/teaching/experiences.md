@@ -63,9 +63,15 @@ nav: false
 
 </div>
 <div class="exp-entry" markdown="1">
-<div class="exp-head"><span class="exp-title" markdown="span">**MTH 153 Calculus I and MTH 154 Calculus II for Mathematics Students**, METU, Undergraduate Teaching Assistant (homework grader)</span><span class="exp-term">Fall 2018 – Spring 2019</span></div>
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 154 Calculus II for Mathematics Students**, METU, Undergraduate Teaching Assistant (homework grader)</span><span class="exp-term">Spring 2019</span></div>
 
-- Graded homework for more than 300 students in MTH 153 (Fall 2018) and MTH 154 (Spring 2019).
+- Graded homework (more than 300 students across MTH 153 and MTH 154).
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 153 Calculus I for Mathematics Students**, METU, Undergraduate Teaching Assistant (homework grader)</span><span class="exp-term">Fall 2018</span></div>
+
+- Graded homework (more than 300 students across MTH 153 and MTH 154).
 
 </div>
 <div class="exp-entry" markdown="1">
@@ -118,6 +124,12 @@ nav: false
 Course materials I designed and wrote, newest first.
 
 <div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Workshop series for first-year graduate TAs**, Department of Mathematics, MSU</span><span class="exp-term">2026 – 2027</span></div>
+
+- Co-designing the sessions with Eloy Moreno-Nadales, including the gallery-walk introduction with a "Math PhD passport" and department scavenger hunt, and the _Three Aspects of Teaching_ group activity ([slides, PDF]({{ '/assets/pdf/three_aspects_of_teaching.pdf' | relative_url }})).
+
+</div>
+<div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 314 Matrix Algebra with Computational Applications**, MSU, Instructor</span><span class="exp-term">Fall 2026</span></div>
 
 - Prepare the lectures and group-work activities for my section.
@@ -142,6 +154,12 @@ Course materials I designed and wrote, newest first.
 
 </div>
 <div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Teaching handbook for first-time instructors**, Center for Instructional Mentoring, MSU</span><span class="exp-term">Summer 2024</span></div>
+
+- Built on interviews with senior GTAs, describing each course's expectations so junior graduate students can choose assignments that fit them.
+
+</div>
+<div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 235 Differential Equations**, MSU</span><span class="exp-term">Spring 2024</span></div>
 
 - Wrote recitation notes with lecture summaries and practice problems, including spring equations presented through car suspension systems.
@@ -154,19 +172,13 @@ Course materials I designed and wrote, newest first.
 
 </div>
 <div class="exp-entry" markdown="1">
-<div class="exp-head"><span class="exp-title" markdown="span">**Teaching handbook for first-time instructors**, Center for Instructional Mentoring, MSU</span><span class="exp-term">Summer 2024</span></div>
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 154 Calculus II for Mathematics Students**, METU</span><span class="exp-term">Spring 2022</span></div>
 
-- Built on interviews with senior GTAs, describing each course's expectations so junior graduate students can choose assignments that fit them.
-
-</div>
-<div class="exp-entry" markdown="1">
-<div class="exp-head"><span class="exp-title" markdown="span">**Workshop series for first-year graduate TAs**, Department of Mathematics, MSU</span><span class="exp-term">2026 – 2027</span></div>
-
-- Co-designing the sessions with Eloy Moreno-Nadales, including the gallery-walk introduction with a "Math PhD passport" and department scavenger hunt, and the _Three Aspects of Teaching_ group activity ([slides, PDF]({{ '/assets/pdf/three_aspects_of_teaching.pdf' | relative_url }})).
+- Prepared the recitation questions and the homework assignments.
 
 </div>
 <div class="exp-entry" markdown="1">
-<div class="exp-head"><span class="exp-title" markdown="span">**MTH 154 Calculus II and MTH 153 Calculus I for Mathematics Students**, METU</span><span class="exp-term">Fall 2021 – Spring 2022</span></div>
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 153 Calculus I for Mathematics Students**, METU</span><span class="exp-term">Fall 2021</span></div>
 
 - Prepared the recitation questions and the homework assignments.
 
@@ -181,15 +193,15 @@ Course materials I designed and wrote, newest first.
 ## Teaching development and educational research
 
 - **Program Evaluator & Instructional Researcher**, AI for Advanced Semiconductor Manufacturing Workshop, Michigan State University, May 2026. Designed pre/post surveys and observation protocols, analyzed participant feedback, and wrote the evaluation report with curriculum recommendations ([Mentored Teaching Project]({{ '/teaching/cct/mentored-teaching-project/' | relative_url }})).
-- **Graduate Certification in College Teaching**, MSU Graduate School ([CCT portfolio]({{ '/teaching/cct/' | relative_url }})).
 - **MTH 879 Teaching College Mathematics**, graduate course, Michigan State University, Fall 2024 ([course work]({{ '/teaching/cct/course-work/' | relative_url }})).
-- **Certification in College Teaching Institute (CCTI)**, two-day workshop, Michigan State University, May 2024 ([session notes]({{ '/teaching/cct/university-context/' | relative_url }})).
 - **Colleges Online Learning Academy (COLA) workshops**, online course design, Michigan State University, Summer 2024 ([COLA page]({{ '/teaching/cola/' | relative_url }})).
+- **Certification in College Teaching Institute (CCTI)**, two-day workshop, Michigan State University, May 2024 ([session notes]({{ '/teaching/cct/university-context/' | relative_url }})).
+- **Graduate Certification in College Teaching**, MSU Graduate School ([CCT portfolio]({{ '/teaching/cct/' | relative_url }})).
 
 ## Service and leadership
 
-- Graduate Student Representative, Graduate Studies Committee, Department of Mathematics, MSU (2024 – 2025)
 - Graduate Representative, NatSci Student Advisory Council (SAC), College of Natural Science, MSU (2025 – 2026)
-- President / Board Member, Association for Women in Mathematics (AWM), MSU Chapter (2022 – 2025)
+- Graduate Student Representative, Graduate Studies Committee, Department of Mathematics, MSU (2024 – 2025)
 - Organizing Committee, Graduate Student Topology and Geometry Conference, MSU (April 2024)
+- President / Board Member, Association for Women in Mathematics (AWM), MSU Chapter (2022 – 2025)
 - President, METU Math Club (2015 – 2018)
