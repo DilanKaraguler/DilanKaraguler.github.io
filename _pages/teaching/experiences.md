@@ -88,6 +88,7 @@ nav: false
 - **2026 – 2027:** co-leading a yearlong workshop series for first-year graduate TAs with [Eloy Moreno-Nadales](https://sites.google.com/view/eloymorenonadales/home). Sessions so far:
   - _Introductions:_ a gallery walk at whiteboards arranged in a circle, a conversation on what makes math instruction welcoming or alienating, and a "Math PhD passport" and department scavenger hunt that connect new students with senior graduate students.
   - _Three Aspects of Teaching:_ group work and a gallery walk on (1) clarity and delivery (board layout, pacing, time traps), (2) communication and language (avoiding words like "trivial" or "obviously", questioning and wait time) and (3) engagement and cohort needs, drawn from the TAs' own classroom observations, to prepare their mock teaching. ([slides, PDF]({{ '/assets/pdf/three_aspects_of_teaching.pdf' | relative_url }}))
+  - _Mock teaching and peer feedback:_ each first-year TA gave a 7-minute mock lesson, and the group gave written peer feedback on a form that asks for one strength and one thing to improve in each of the three aspects: technical delivery, communication and language, and student engagement and cohort needs. ([feedback form, PDF]({{ '/assets/pdf/teaching/mock_teaching_feedback_form.pdf' | relative_url }}))
 - **Fall 2025 (MTH 132 Calculus I):** prepared recitation worksheet materials, gathered TA feedback for the instructors, and substituted for recitation leaders when needed.
 - **Spring 2025 (MTH 133):** ran TA meetings, prepared weekly recitation worksheets, and set up Teams tools to track the TA timeline and grading deadlines.
 - **Fall 2024:** starting in August, ran the orientation for undergraduate learning assistants (ULAs), held mock-teaching and feedback sessions, and observed ULAs and GTAs during the semester to give feedback. As MTH 133 pod leader, ran meetings with recitation leaders and prepared the weekly recitation worksheets.
@@ -126,7 +127,7 @@ Course materials I designed and wrote, newest first.
 <div class="exp-entry" markdown="1">
 <div class="exp-head"><span class="exp-title" markdown="span">**Workshop series for first-year graduate TAs**, Department of Mathematics, MSU</span><span class="exp-term">2026 – 2027</span></div>
 
-- Co-designing the sessions with Eloy Moreno-Nadales, including the gallery-walk introduction with a "Math PhD passport" and department scavenger hunt, and the _Three Aspects of Teaching_ group activity ([slides, PDF]({{ '/assets/pdf/three_aspects_of_teaching.pdf' | relative_url }})).
+- Co-designing the sessions with Eloy Moreno-Nadales, including the gallery-walk introduction with a "Math PhD passport" and department scavenger hunt, the _Three Aspects of Teaching_ group activity ([slides, PDF]({{ '/assets/pdf/three_aspects_of_teaching.pdf' | relative_url }})), and the mock-teaching session with its peer feedback form ([form, PDF]({{ '/assets/pdf/teaching/mock_teaching_feedback_form.pdf' | relative_url }})).
 
 </div>
 <div class="exp-entry" markdown="1">
