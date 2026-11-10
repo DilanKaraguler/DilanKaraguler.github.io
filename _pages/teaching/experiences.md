@@ -7,7 +7,10 @@ nav: false
 ---
 
 
-**Excellence in Teaching Award**, Department of Mathematics, Michigan State University, May 2025.
+## Teaching awards and fellowships
+
+- **Excellence in Teaching Award**, Department of Mathematics, Michigan State University, May 2025.
+- **Colleges Online Learning Academy (COLA) Fellowship**, funded fellowship, Michigan State University, Summer 2024 ([COLA page]({{ '/teaching/cola/' | relative_url }})).
 
 ## Courses taught
 
@@ -179,11 +182,13 @@ Course materials I designed and wrote, newest first.
 
 - **Program Evaluator & Instructional Researcher**, AI for Advanced Semiconductor Manufacturing Workshop, Michigan State University, May 2026. Designed pre/post surveys and observation protocols, analyzed participant feedback, and wrote the evaluation report with curriculum recommendations ([Mentored Teaching Project]({{ '/teaching/cct/mentored-teaching-project/' | relative_url }})).
 - **Graduate Certification in College Teaching**, MSU Graduate School ([CCT portfolio]({{ '/teaching/cct/' | relative_url }})).
-- **Colleges Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2024 ([COLA page]({{ '/teaching/cola/' | relative_url }})).
+- **MTH 879 Teaching College Mathematics**, graduate course, Michigan State University, Fall 2024 ([course work]({{ '/teaching/cct/course-work/' | relative_url }})).
+- **Certification in College Teaching Institute (CCTI)**, two-day workshop, Michigan State University, May 2024 ([session notes]({{ '/teaching/cct/university-context/' | relative_url }})).
+- **Colleges Online Learning Academy (COLA) workshops**, online course design, Michigan State University, Summer 2024 ([COLA page]({{ '/teaching/cola/' | relative_url }})).
 
 ## Service and leadership
 
-- Graduate Student Representative, Graduate Studies Committee, Department of Mathematics, MSU (2025 – 2026)
+- Graduate Student Representative, Graduate Studies Committee, Department of Mathematics, MSU (2024 – 2025)
 - Graduate Representative, NatSci Student Advisory Council (SAC), College of Natural Science, MSU (2025 – 2026)
 - President / Board Member, Association for Women in Mathematics (AWM), MSU Chapter (2022 – 2025)
 - Organizing Committee, Graduate Student Topology and Geometry Conference, MSU (April 2024)
