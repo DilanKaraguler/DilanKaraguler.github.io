@@ -130,6 +130,7 @@ Course materials I designed and wrote, newest first.
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 133 Calculus II**, MSU, pod leader and Lead TA</span><span class="exp-term">Fall 2024 – Spring 2025</span></div>
 
 - Prepared the weekly recitation worksheets used across the recitation sections.
+- In Spring 2025, while preparing course materials as Lead TA, wrote a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
 
 </div>
 <div class="exp-entry" markdown="1">
@@ -160,12 +161,6 @@ Course materials I designed and wrote, newest first.
 <div class="exp-head"><span class="exp-title" markdown="span">**MTH 154 Calculus II and MTH 153 Calculus I for Mathematics Students**, METU</span><span class="exp-term">Fall 2021 – Spring 2022</span></div>
 
 - Prepared the recitation questions and the homework assignments.
-
-</div>
-<div class="exp-entry" markdown="1">
-<div class="exp-head"><span class="exp-title" markdown="span">**Calculus I recitation materials**, METU</span><span class="exp-term">2020 – 2022</span></div>
-
-- Wrote a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
 
 </div>
 <div class="exp-entry" markdown="1">
