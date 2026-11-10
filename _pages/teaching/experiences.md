@@ -56,6 +56,7 @@ nav: false
 
 - MTH 154 Calculus II for Mathematics Students (Spring 2022), MTH 153 Calculus I for Mathematics Students (Fall 2021), MTH 120 Calculus II for Engineering Students (Spring 2021), MTH 119 Calculus I for Engineering Students (Fall 2020).
 - Led recitations and office hours, and graded and proctored online and in-person exams.
+- For MTH 153 and MTH 154, prepared the recitation questions and the homework assignments.
 
 </div>
 <div class="exp-entry" markdown="1">
@@ -98,6 +99,65 @@ nav: false
 <div class="exp-head"><span class="exp-title" markdown="span">**Supervisor, Math Learning Center (MLC)**, Michigan State University</span><span class="exp-term">Fall 2022 – Spring 2023, Fall 2024</span></div>
 
 - Managed how tutors were distributed among students and arranged the room to match demand. (Teaching Exemption Fellowship, 2022 – 2023.)
+
+</div>
+
+## Curriculum development
+
+Course materials I designed and wrote, newest first.
+
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 314 Matrix Algebra with Computational Applications**, MSU, Instructor</span><span class="exp-term">Fall 2026</span></div>
+
+- Prepare the lectures and group-work activities for my section.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 299 Transitions**, MSU</span><span class="exp-term">Fall 2025</span></div>
+
+- Prepared recitation worksheet materials as Lead TA, and wrote the homework solutions.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 133 Calculus II**, MSU, pod leader and Lead TA</span><span class="exp-term">Fall 2024 – Spring 2025</span></div>
+
+- Prepared the weekly recitation worksheets used across the recitation sections.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 235 Differential Equations**, MSU</span><span class="exp-term">Spring 2024</span></div>
+
+- Wrote recitation notes with lecture summaries and practice problems, including spring equations presented through car suspension systems.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 133 Calculus II**, MSU</span><span class="exp-term">Fall 2023</span></div>
+
+- Prepared weekly lecture summaries for the recall session before group work and worksheets.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Teaching handbook for first-time instructors**, Center for Instructional Mentoring, MSU</span><span class="exp-term">Summer 2024</span></div>
+
+- Built on interviews with senior GTAs, describing each course's expectations so junior graduate students can choose assignments that fit them.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Workshop series for first-year graduate TAs**, Department of Mathematics, MSU</span><span class="exp-term">2026 – 2027</span></div>
+
+- Co-designing the sessions with Eloy Moreno-Nadales, including the gallery-walk introduction with a "Math PhD passport" and department scavenger hunt, and the _Three Aspects of Teaching_ group activity ([slides, PDF]({{ '/assets/pdf/three_aspects_of_teaching.pdf' | relative_url }})).
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**MTH 154 Calculus II and MTH 153 Calculus I for Mathematics Students**, METU</span><span class="exp-term">Fall 2021 – Spring 2022</span></div>
+
+- Prepared the recitation questions and the homework assignments.
+
+</div>
+<div class="exp-entry" markdown="1">
+<div class="exp-head"><span class="exp-title" markdown="span">**Calculus I recitation materials**, METU</span><span class="exp-term">2020 – 2022</span></div>
+
+- Wrote a rate-of-change problem based on an ancient engineering device that used the rotation of a wheel to predict dry and flood seasons.
 
 </div>
 
