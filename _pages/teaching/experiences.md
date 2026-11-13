@@ -226,5 +226,5 @@ Course materials I designed and wrote, newest first.
 ### Outreach and volunteering
 
 - Proctor, Math Kangaroo Team Competition, Department of Mathematics, MSU (November 2026, upcoming): a new program where teams of 2–4 students solve math problems together
-- Volunteer, Math Night, Marble Elementary School, East Lansing (November 2026, upcoming)
+- Volunteer, Math Night, Marble Elementary School, East Lansing (November 2026)
 - Volunteer, MSU Student Food Bank (Spring 2024)

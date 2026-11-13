@@ -14,6 +14,8 @@ Talks and posters are on the [publications]({{ '/publications/' | relative_url }
 **Graduate Researcher**, Department of Mathematics, Michigan State University <span style="float:right">2022 – present</span>
 
 - Developing **Mayer path homology**, a homology theory for directed graphs and path complexes built on N-nilpotent (Mayer) chain complexes, together with its persistent version.
+- Developed **persistent Mayer path homology** and the **Mayer path Laplacian** for filtered directed graphs, with stability theorems for the barcodes and Laplacian eigenvalues. On the molecule cucurbit[7]uril they detect contacts that close feed-forward loops, which ordinary path homology does not register (preprint, 2026; arXiv version coming soon).
+- Next: comparing these directed invariants with persistent sheaf Laplacians ([Hayes, Merkurjev and Wei, _Phys. Chem. Chem. Phys._ 2026](https://doi.org/10.1039/d5cp04098a)) for predicting the flexibility (B-factors) of protein–nucleic acid complexes.
 - Computing topological features in Python (GUDHI, NumPy, PyTorch) and combining them with graph neural networks for molecular, dynamical and engineering data.
 
 **Graduate Research Assistant**, Department of Mathematics, Michigan State University <span style="float:right">Spring 2026</span>
