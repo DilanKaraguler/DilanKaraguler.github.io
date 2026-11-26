@@ -17,10 +17,6 @@ Also on [Google Scholar](https://scholar.google.com/citations?user=GtEuZ08AAAAJ)
 
 </div>
 
-## Preprints
-
-- **D. Karaguler** and G.-W. Wei. _Persistent Mayer Path Homology and Laplacian._ Preprint (2026), to appear on arXiv.
-
 ## Talks
 
 - **Integrating AI to Lecture Prep.** Teaching lightning talk, _Sparks: Teaching Lightning Talks by Graduate Instructors_, Mathematics Teaching Seminar, Department of Mathematics, Michigan State University, November 17, 2026 (upcoming).

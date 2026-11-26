@@ -49,6 +49,7 @@ Before MSU, I earned my M.S. (2021) and B.S. (2019, honor student) in Mathematic
 </style>
 <ul class="timeline">
   <li><span class="tl-date">May 2027</span><span class="tl-text">Expected Ph.D. completion.</span></li>
+  <li><span class="tl-date">Nov 2026</span><span class="tl-text"><a href="https://arxiv.org/abs/2611.26982">Persistent Mayer Path Homology and Mayer Path Laplacian</a> (with G.-W. Wei) posted on arXiv.</span></li>
   <li><span class="tl-date">Fall 2026</span><span class="tl-text">Teaching MTH 314 Matrix Algebra as instructor.</span></li>
   <li><span class="tl-date">Fall 2026</span><span class="tl-text">Started a yearlong teaching workshop series for first-year graduate students, co-led with <a href="https://sites.google.com/view/eloymorenonadales/home">Eloy Moreno-Nadales</a>.</span></li>
   <li><span class="tl-date">Jul 2026</span><span class="tl-text"><a href="https://doi.org/10.3934/fods.2026025">Mayer Path Homology</a> (with G.-W. Wei) accepted to <em>Foundations of Data Science</em>.</span></li>
